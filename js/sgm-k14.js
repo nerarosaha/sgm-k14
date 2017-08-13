@@ -2084,7 +2084,7 @@ function struncateString(a, b) {
         }
     })
 }
-var brandContentStream = {
+/* var brandContentStream = {
     content: "",
     attr: "newsid",
     init: function(b) {
@@ -2140,7 +2140,7 @@ var brandContentStream = {
             c.find(".knswli-right").find(".k14topic-sapo").css("display", "inline-block")
         })
     }
-};
+}; */
 
 function getTypeNews(a) {
     var b = "";
