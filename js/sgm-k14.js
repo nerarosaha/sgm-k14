@@ -2253,7 +2253,7 @@ function addLabelEditorChoiceType(a) {
 function addLabelMonopolyType(a) {
     $(a).append('<div class="label-news label-monopoly"><span>ĐỘC QUYỀN</span></div>')
 }
-var trendingTag = {
+/* var trendingTag = {
     init: function() {
         var b = this;
         var a = 0;
@@ -2292,7 +2292,7 @@ var trendingTag = {
     error: function() {
         $(".list-khwtht").hide()
     }
-};
+}; */
 
 function loadJsAsync(b, d) {
     var a = document.getElementsByTagName("head")[0];
